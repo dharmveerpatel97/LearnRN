@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614930203310",
+    "project_id": "learningreactnative-7f73e",
+    "storage_bucket": "learningreactnative-7f73e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614930203310:android:c9cea113d1a6c8acf7e33f",
+        "android_client_info": {
+          "package_name": "com.learningrn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614930203310-pcqbmicf4e2at07e0sj5vcij9odlckjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCovlQ8M1NLh_sOuZ6KNDVnxN5LfF306jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614930203310-pcqbmicf4e2at07e0sj5vcij9odlckjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
