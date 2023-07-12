@@ -6,6 +6,7 @@ export const Colors = createContext();
 let color ={
   themeColor:"red",
   grey:'grey'
+  
 }
 export default function ColorContext(props) {
   return (
